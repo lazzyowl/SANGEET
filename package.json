@@ -1,0 +1,10 @@
+{
+    "name": "sangeet-tuner-monorepo",
+    "private": true,
+    "scripts": {
+        "dev": "npm run dev --prefix SANGEET",
+        "build": "npm run build --prefix SANGEET",
+        "test": "npm test --prefix SANGEET"
+    },
+    "dependencies": {}
+}
